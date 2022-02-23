@@ -53,11 +53,12 @@ _currently there are no bugs. the website can only be improved, updated and main
     HTML - created relative paths
 
     css - shaped the edges of a photo
+    
     <style>
     p{
         color: greenyellow
     }
-</style>
+    </style>
 
 ---
 
