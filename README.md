@@ -53,6 +53,11 @@ _currently there are no bugs. the website can only be improved, updated and main
     HTML - created relative paths
 
     css - shaped the edges of a photo
+    <style>
+    p{
+        color: greenyellow
+    }
+</style>
 
 ---
 
@@ -64,8 +69,4 @@ Hey, you are welcome to fork me, clone my repo and make changes to the webpage
 
 MIT
 
-<style>
-    p{
-        color: greenyellow
-    }
-</style>
+
