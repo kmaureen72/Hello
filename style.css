@@ -1,0 +1,17 @@
+img {
+  width: fit-content;
+  background-size: cover;
+  background-attachment: fixed;
+}
+body {
+  background-color: bisque;
+}
+h1 {
+  color: tomato;
+}
+h2 {
+  color: goldenrod;
+}
+h3 {
+  color: green;
+}
